@@ -6,11 +6,11 @@ LEPETIT Lucie - Licence Informatique (2eme Année)
 YANG Tatiana - Licence Informatique (2eme Année)
 
 
-Pour jouer au jeu : 
-	- Ouvrir un terminal(invite de commande) dans le dossier ou se trouve le README ainsi que le repertoire "src".
-	- Tapez "cd src" pour accéder au fichier du jeu
-	- Puis créer un repertoir "build" en écrivant la commande : "mkdir build"
-	- Tapez la ligne de commande: "javac -d build games/*.java orchestration/*.java players/*.java" pour compiler.
+	Pour jouer au jeu : 
+		- Ouvrir un terminal(invite de commande) dans le dossier ou se trouve le README ainsi que le repertoire "src".
+		- Tapez "cd src" pour accéder au fichier du jeu
+		- Puis créer un repertoir "build" en écrivant la commande : "mkdir build"
+		- Tapez la ligne de commande: "javac -d build games/*.java orchestration/*.java players/*.java" pour compiler.
 	
 	Il y a 2 façons d'exécuter notre jeu :
 	
